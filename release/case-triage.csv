@@ -1,0 +1,10 @@
+priority,case_id,zone,artifact_group,observed_on,humidity_pct,seal_status,action,basis
+1,CV-103,North Gallery,Glass,2113-06-15,57.9,breached,ISOLATE,seal breach
+2,CV-112,North Gallery,Coins,2113-06-14,62.1,breached,ISOLATE,seal breach
+3,CV-101,North Gallery,Ceramics,2113-06-14,63.5,closed,DEHUMIDIFY,humidity above 62.0
+4,CV-105,East Wing,Manuscripts,2113-06-15,62.4,closed,DEHUMIDIFY,humidity above 62.0
+5,CV-102,East Wing,Textiles,2113-06-15,59.0,closed,MOVE,scheduled closure: filter replacement
+6,CV-106,North Gallery,Metalwork,2113-06-15,61.0,closed,MOVE,scheduled closure: late revised closure
+7,CV-107,South Hall,Photography,2113-06-14,58.0,closed,MOVE,scheduled closure: lighting work
+8,CV-113,East Wing,Books,2113-06-14,62.0,closed,MOVE,scheduled closure: filter replacement
+9,CV-114,West Annex,Frames,2113-06-15,58.0,closed,REVIEW,humidity 58.0–62.0
